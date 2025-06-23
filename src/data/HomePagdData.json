@@ -1,0 +1,311 @@
+{
+  "hero": {
+    "imgUrl": "/images/home-zeynep.jpg",
+    "name": "ZEYNEP BAKIRMAN",
+    "heading": "Merhaba! Ben Zeynep.",
+    "typingText": [
+      "Ben bir yazılım geliştiricisiyim.",
+      1500,
+      "Ben bir front-end geliştiricisiyim.",
+      1500
+    ],
+    "description": "React ve TypeScript ile geliştirilen, yazılım projelerimi ve deneyimlerimi sergilediğim kişisel portfolyo projesi.",
+    "btnText": "Tıklayınız.",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:facebook-f",
+      "iconBgClass": "facebook",
+      "href": "https://www.facebook.com/profile.php?id=100084476016667"
+    },
+    {
+      "icon": "fa-brands:twitter",
+      "iconBgClass": "twitter",
+      "href": "https://twitter.com/bakirmanz"
+    },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/zeynep-bak%C4%B1rman-35805b371/"
+    },
+    {
+      "icon": "fa-brands:github",
+      "iconBgClass": "github",
+      "href": "https://github.com/zeynepbakirman"
+    },
+    {
+      "icon": "fa-brands:instagram",
+      "iconBgClass": "instagram",
+      "href": "https://www.instagram.com/bakirman.z/"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/altLogo2.jpg",
+      "alt": "Logo"
+    },
+    {
+      "src": "/images/altLogo2.jpg",
+      "alt": "Logo"
+    },
+    {
+      "src": "/images/altLogo2.jpg",
+      "alt": "Logo"
+    },
+    {
+      "src": "/images/altLogo2.jpg",
+      "alt": "Logo"
+    },
+    {
+      "src": "/images/altLogo2.jpg",
+      "alt": "Logo"
+    },
+    {
+      "src": "/images/altLogo2.jpg",
+      "alt": "Logo"
+    },
+    {
+      "src": "/images/altLogo2.jpg",
+      "alt": "Logo"
+    },
+    {
+      "src": "/images/altLogo2.jpg",
+      "alt": "Logo"
+    },
+    {
+      "src": "/images/altLogo2.jpg",
+      "alt": "Logo"
+    },
+    {
+      "src": "/images/altLogo2.jpg",
+      "alt": "Logo"
+    },
+    {
+      "src": "/images/altLogo2.jpg",
+      "alt": "Logo"
+    },
+    {
+      "src": "/images/altLogo2.jpg",
+      "alt": "Logo"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/zeynep.jpg",
+    "miniTitle": "Hakkımda",
+    "title": "Yazılım Mühendisliği Öğrencisi & Geliştirici",
+    "description": "Yazılım mühendisliği 2. sınıf öğrencisiyim. C++, C#, Python, HTML ve React teknolojileriyle projeler geliştiriyor, şu anda bir TÜBİTAK projesinde ekip üyesi olarak yer alıyorum. Kendimi sürekli geliştirmeyi ve yazılım alanında sağlam bir temel oluşturmayı hedefliyorum.",
+    "funfacts": [
+      {
+        "title": "Tamamlanan Proje",
+        "number": 5
+      },
+      {
+        "title": "Kullanılan Teknoloji",
+        "number": 6
+      },
+      {
+        "title": "TÜBİTAK Projesi",
+        "number": 1
+      }
+    ],
+    "btnText": "Tıklayınız.",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "title": "PROJELERİM"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/tübitak.jpg",
+        "title": "TÜBİTAK Projesi",
+        "subTitle": "Ekip ile geliştirme",
+        "details": {
+          "title": "Veri Analizi ve Görselleştirme Projesi",
+          "description": "Üniversitede yürüttüğümüz TÜBİTAK destekli proje kapsamında veri analizi ve görselleştirme üzerine çalışıyoruz. Projede Python ve React teknolojilerini kullanıyoruz. Amaç, karmaşık verileri kullanıcı dostu arayüzlerle sunmak.",
+          "type": "Web Uygulaması",
+          "langages": "Python, React, JavaScript",
+          "platform": "Web",
+          "country": "Türkiye"
+        }
+      },
+      {
+        "thumbUrl": "/images/2.jpeg",
+        "title": "Kişisel Blog Sitesi",
+        "subTitle": "Frontend geliştirme",
+        "details": {
+          "title": "React ile Kişisel Blog Tasarımı",
+          "description": "Kendi yazılım serüvenimi ve öğrendiğim konuları paylaştığım kişisel bir blog sitesi. React ve TypeScript kullanarak responsive bir arayüz oluşturuldu.",
+          "type": "Frontend Web Projesi",
+          "langages": "React, TypeScript, CSS",
+          "platform": "Web",
+          "country": "Türkiye"
+        }
+      },
+      {
+        "thumbUrl": "/images/3.jpg",
+        "title": "C++ Hesap Makinesi",
+        "subTitle": "Konsol uygulaması",
+        "details": {
+          "title": "C++ ile Dört İşlem Hesap Makinesi",
+          "description": "C++ dilinde geliştirdiğim basit bir hesap makinesi. Konsol üzerinden kullanıcıdan veri alarak toplama, çıkarma, çarpma ve bölme işlemleri yapabiliyor.",
+          "type": "Konsol Uygulaması",
+          "langages": "C++",
+          "platform": "Windows CLI",
+          "country": "Türkiye"
+        }
+      },
+      {
+        "thumbUrl": "/images/4.jpeg",
+        "title": "Python Veri Temizleme",
+        "subTitle": "Veri analizi projesi",
+        "details": {
+          "title": "Python ile Pandas Kullanarak Veri Temizleme",
+          "description": "Jupyter Notebook ortamında Python ve Pandas kullanarak eksik veri tespiti ve düzenleme işlemleri gerçekleştirdiğim küçük çaplı veri temizleme projesi.",
+          "type": "Veri Bilimi",
+          "langages": "Python, Pandas",
+          "platform": "Jupyter",
+          "country": "Türkiye"
+        }
+      },
+      {
+        "thumbUrl": "/images/5.jpg",
+        "title": "C# Form Uygulaması",
+        "subTitle": "Windows Forms Projesi",
+        "details": {
+          "title": "C# ile Kullanıcı Kayıt Sistemi",
+          "description": "C# Windows Forms kullanarak basit bir kullanıcı kayıt sistemi geliştirdim. Form üzerinden veri girişi, doğrulama ve listeleme işlemleri yapılabiliyor.",
+          "type": "Masaüstü Uygulama",
+          "langages": "C#",
+          "platform": "Windows",
+          "country": "Türkiye"
+        }
+      },
+      {
+        "thumbUrl": "/images/6.jpg",
+        "title": "HTML & CSS Portfolio",
+        "subTitle": "Statik Web Sitesi",
+        "details": {
+          "title": "Kişisel Portfolyo Tasarımı",
+          "description": "HTML ve CSS kullanarak sıfırdan oluşturduğum sade ve responsive bir kişisel portfolyo web sitesi. Tasarım odaklı ilk web çalışmam.",
+          "type": "Statik Web Sayfası",
+          "langages": "HTML, CSS",
+          "platform": "Web",
+          "country": "Türkiye"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "HİZMETLER",
+      "title": "Tasarım <span>Hizmetleri</span>"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/service-01.jpg",
+        "title": "Web Sitesi Tasarımı",
+        "subTitle": "Özel tasarlanmış, kullanıcı dostu ve modern web siteleriyle markanızı dijitalde öne çıkarıyorum. Hızlı yükleme, responsive tasarım ve SEO ile işinizi büyütmenize yardım ediyorum. Sizinle hayallerinizi gerçeğe dönüştürelim!",
+        "icon": "bi:brush-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-02.jpg",
+        "title": "SEO Pazarlama",
+        "subTitle": "Markanızı Google’da üst sıralara taşıyarak organik trafiği artırıyorum. Anahtar kelime analizi, içerik optimizasyonu ve stratejilerle hedef kitlenize ulaşıyorum. İşinizi büyütmek için doğru adrestesiniz!",
+        "icon": "bi:code-square",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/service-03.jpg",
+        "title": "Grafik Tasarım",
+        "subTitle": "Yaratıcı ve çarpıcı tasarımlarla markanızın hikayesini görselleştiriyorum. Logo, afiş ve sosyal medya görsellerinde özgün çözümler sunuyorum. Vizyonunuzu benimle hayata geçirin!",
+        "icon": "bi:speedometer2",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-04.jpg",
+        "title": "İş Stratejisi",
+        "subTitle": "İş hedeflerinize ulaşmanız için kişiselleştirilmiş stratejiler geliştiriyorum. Pazar analizi, satış planları ve yol haritalarıyla rehberlik ediyorum. Başarıya giden yolu birlikte çizelim!",
+        "icon": "bi:palette",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "deneyim",
+      "title": "İş <span>Deneyimlerim</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Front-end Developer",
+        "company": "TEKNOLOJİ A.Ş. | UZAKTAN",
+        "duration": "OCAK 2017 - AĞUSTOS 2023",
+        "jobType": "Full time",
+        "companyTitle": "Şirket Hakkında",
+        "companyDescription": "Teknoloji A.Ş., yenilikçi çözümler sunarak dijital dönüşümde öncü bir rol oynuyor. Deneyimli ekibimizle yazılım geliştirme, web tasarımı ve teknoloji danışmanlığı alanlarında hizmet veriyoruz. Müşteri memnuniyetini ve kaliteyi esas alarak geleceğe yön veriyoruz."
+      },
+      {
+        "designation": "Web Geliştirici",
+        "company": "YAZILIM DÜNYASI A.Ş. | UZAKTAN",
+        "duration": "TEMMUZ 2021 - DEVAM EDİYOR",
+        "jobType": "Full time",
+        "companyTitle": "Şirket Hakkında",
+        "companyDescription": "Yazılım Dünyası A.Ş., ileri teknolojiyle donatılmış çözümler sunarak sektöre yön veriyor. Uzman kadromuzla mobil uygulama geliştirme, yapay zeka ve bulut hizmetleri sağlıyoruz. İnovasyon ve güvenle geleceği şekillendiriyoruz."
+      },
+      {
+        "designation": "Ön Uç Mühendisi",
+        "company": "DİJİTAL GELECEK A.Ş. | UZAKTAN",
+        "duration": "MART 2024 - GÜNÜMÜZ",
+        "jobType": "Full time",
+        "companyTitle": "Şirket Hakkında",
+        "companyDescription": "Dijital Gelecek A.Ş., dijital dünyada fark yaratmayı amaçlayan yenilikçi bir şirkettir. E-ticaret çözümleri, veri analitiği ve siber güvenlik alanlarında hizmet veriyoruz. Müşterilerimize değer katarak büyümeye devam ediyoruz."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Yorumlar",
+      "title": "<span>8.000+</span> <br />'DEN FAZLA KİŞİ BANA GÜVENİYOR."
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Çalışmalarınızla projelerime değer kattınız, teşekkür ederim. Profesyonel yaklaşımınız ve hızlı dönüşleriniz beni çok etkiledi. Kesinlikle tekrar çalışmak isterim!",
+        "avatarImg": "/images/faruk.jpg",
+        "avatarName": "Faruk Emre ÖK",
+        "avatarCompany": "ÖK YAZILIM"
+      },
+      {
+        "reviewText": "Hizmetlerinizle işimizi bir üst seviyeye taşıdık. Ekip çalışmanız ve yenilikçi çözümleriniz harika! Gelecek projelerde de sizinle iş birliği yapmayı sabırsızlıkla bekliyorum.",
+        "avatarImg": "/images/alperen.jpg",
+        "avatarName": "Alperen ERİ",
+        "avatarCompany": "PIXELCRAFT YAZILIM"
+      },
+      {
+        "reviewText": "Çözüm odaklı yaklaşımınızla projemi zamanında teslim ettiniz. Detaylara verdiğiniz önem ve destek inanılmazdı. Gelecekte de tercihim siz olacaksınız!",
+        "avatarImg": "/images/mert.jpg",
+        "avatarName": "Mert KAYAR",
+        "avatarCompany": "RDSOFTWARE  "
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Projenizi Tartışalım",
+      "subTitle": "Doğru proje için her zaman freelance olarak çalışabilirim, bana ulaşabilirsiniz."
+    },
+    "contactImg": "/images/z2.jpg",
+    "contactInfo": [
+      {
+        "title": "Email ile iletişim",
+        "email": "zeynepbakirman@icloud.com"
+      },
+      {
+        "title": "Telefon ile iletişim",
+        "tel": "0542 678 48 40"
+      }
+    ]
+  }
+}
